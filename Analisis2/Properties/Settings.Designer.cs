@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Analisis4.Properties
+namespace Analisis2.Properties
 {
 
 

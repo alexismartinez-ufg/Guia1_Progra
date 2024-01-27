@@ -79,7 +79,7 @@ namespace Ejemplo_2
                     MessageBox.Show("El Resultado es " + r.ToString(), "Respuesta");
                 }
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 MessageBox.Show("Parece que hubo un error!");
             }
